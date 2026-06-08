@@ -1,7 +1,5 @@
 ﻿# ============================================================
 # House Price Predictor — Linear Regression
-# Author  : Divya Nimbalkar
-# GitHub  : https://github.com/divya-09nimbalkar
 # Dataset : California Housing (sklearn built-in)
 # ============================================================
 

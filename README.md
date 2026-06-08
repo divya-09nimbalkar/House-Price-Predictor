@@ -1,4 +1,4 @@
-# 🏠 House Price Predictor
+#  House Price Predictor
 
 Predicts California house prices using **Linear Regression** and **Ridge Regression** with full EDA, feature analysis, and visualizations.
 
@@ -34,4 +34,4 @@ python house_price_predictor.py
 California Housing dataset from `sklearn.datasets` — no download needed.
 
 ---
-**Author:** Divya Nimbalkar | [GitHub](https://github.com/divya-09nimbalkar) | [LinkedIn](https://www.linkedin.com/in/divya-nimbalkar09/)
+Divya Nimbalkar | [GitHub](https://github.com/divya-09nimbalkar) | [LinkedIn](https://www.linkedin.com/in/divya-nimbalkar09/)
